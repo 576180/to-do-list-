@@ -1,0 +1,56 @@
+#list
+{
+	background-color: 	#fbd266;
+}
+#abc{
+text-align: center; 
+background-color: #f2d8b3;
+border: 1px solid;
+box-shadow: 1px 1px 1px 1px 	smok ;
+margin : auto;
+border-radius: 8px;
+}
+#efg
+{
+	border: 1px solid;
+box-shadow: 1px 1px 1px 1px smoke;
+margin-top: 100px;
+text-align: left;
+
+border-radius: 8px;
+ background-size: auto;
+ background-color: #D3E1B4;
+}
+.name
+{
+	font-style: bold;
+ margin-left: 10px;
+	text-transform: uppercase;
+}
+input
+{
+	border: 1px solid black;
+	border-radius: 1px;
+	margin-left: 10px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	box-shadow: 2px 1px 2px 1px smoke;
+	background-color: silver;
+	color: black;
+
+	}
+#ijk
+{
+	background-color: silver;
+	size: 30%;
+	border-radius: 1px;
+	
+}
+#yogi
+{
+position: absolute; 
+right: 10px;
+top: auto;
+
+
+}
