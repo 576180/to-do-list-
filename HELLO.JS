@@ -14,3 +14,10 @@ console.log(multiply, "multiply two number")
 };
 
 handleCalculate(30, 05);
+
+
+const haandleEmiCalculater =  (principalAmt,percentage) => {
+            let result  = (principalAmt * percentage)/12
+            console.log(result,"result permonth")
+}
+haandleEmiCalculater(12000,34)
